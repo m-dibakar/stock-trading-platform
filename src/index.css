@@ -15,3 +15,8 @@ code {
 .nav-link {
   margin-left: 20px;
 }
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+}
